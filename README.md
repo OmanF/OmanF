@@ -9,6 +9,6 @@ I'm Ohad Frenkel Keshet.
 - 🦾 Hobby-coder, currently mostly in F#.
 - 🤣 An all-around stand-up guy.
 
-Thanks for dropping by, and enjoy! 😄
+Thanks for dropping by!
 
 ![thanks](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhhcXJyZHI1cnV1Mmd6dHdsbHhmZ2RkbzY4NW53d2VjZmsyeDEydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h8ZRNWU2CDeA48fCYi/giphy.gif)
