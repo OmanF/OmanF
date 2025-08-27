@@ -2,10 +2,11 @@
 
 I'm Ohad Frenkel Keshet.
 
-- 🕵️ A QA professional for a double-digit number of years.
-- 👨‍💻 Most of which as a Software Developer in Test, though I still participate in, and enjoy, manual QA activites (manually testing features, design and document test plans, etc.), too.
-- 🤖 Love the Functional Programming (FP) paradigm, especially F#, Haskell, and Elixir, with a warm spot in my heart for Clojure too.
-- 📊 Also interested in multi-paradigm, graph databases, such as SurrealDB and ArangoDB.
+- 🕵️ QA professional for a double-digit number of years.
+  - 🤖 Most of which as a Software Developer in Test (SDET)/automation developer.
+  - 👁️ I still participate in manual QA activites, e.g., manually testing features, design and document test plans, etc.
+- 💻️ Love the Functional Programming (FP) paradigm, especially F#, Haskell, and Elixir, with a warm spot in my heart for Clojure too.
+- 📊 Also interested in multi-paradigm databases, such as SurrealDB and ArangoDB.
 - 🦾 Hobby-coder, currently mostly in F#.
 - 🤣 An all-around stand-up guy.
 
